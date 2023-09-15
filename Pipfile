@@ -1,0 +1,32 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+jupyter = "*"
+pandas = "*"
+statistics = "*"
+statsmodels = "*"
+scipy = "*"
+tensorflow = "*"
+h3 = "*"
+pysal = "*"
+pydeck = "*"
+shapely = "*"
+geopandas = "*"
+annoy = "*"
+geojson = "*"
+more-itertools = "*"
+folium = "*"
+line-profiler = "*"
+pycodestyle-magic = "*"
+pycodestyle = "*"
+flake8 = "*"
+ipywidgets = "==7.6.5"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

@@ -1,3 +1,10 @@
 .DS_Store
 env/
 .ipynb_checkpoints/
+notebooks/PlotNeuralNet/
+notebooks/aggregate.html
+notebooks/busstops.html
+notebooks/datasets_demo/
+notebooks/images/
+notebooks/maps/
+notebooks/urban_analytics_1.ipynb
